@@ -1,0 +1,78 @@
+.beans-card-container {
+  align-items: center;
+  display: flex;
+  margin: 3% 0;
+  border-radius: 10px;
+  break-inside: avoid;
+  background-color: rgb(223, 220, 215);
+  justify-content: center;
+  color: brown;
+}
+
+.beans-card-container:first-child {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .beans-card-container {
+    flex-direction: column;
+  }
+
+  .beans-image-container {
+    width: 80%;
+    height: 80%;
+  }
+
+  .beans-image {
+    width: 70%;
+    height: 70%;
+    display: block;
+    margin: 3% auto;
+    margin-bottom: 0;
+  }
+
+  .beans-info {
+    padding: 2%;
+  }
+
+  .beans-info h3 {
+    font-size: 25px;
+  }
+
+  .bean-button-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .beans-card-container {
+    margin: 2% 0;
+  }
+
+  .beans-image-container {
+    flex: 1;
+    float: left;
+  }
+
+  .beans-image {
+    width: 90%;
+    height: 90%;
+    margin-left: 8%;
+  }
+
+  .beans-info {
+    flex: 2;
+    float: left;
+    padding: 3%;
+  }
+
+  .bean-button-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1%;
+  }
+}

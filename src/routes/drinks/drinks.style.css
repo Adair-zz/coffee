@@ -1,0 +1,39 @@
+.drinks-container {
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 540px) {
+  .drinks-card-body-container {
+    column-count: 1;
+    margin: 2% 2%;
+  }
+
+  .drinks-container h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+}
+
+@media screen and (min-width: 540px) and (max-width: 960px) {
+  .drinks-card-body-container {
+    column-count: 2;
+    margin: 2% 2%;
+  }
+
+  .drinks-container h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  .drinks-card-body-container {
+    column-count: 3;
+    margin: 2% 2%;
+  }
+
+  .drinks-container h1 {
+    text-align: center;
+  }
+}

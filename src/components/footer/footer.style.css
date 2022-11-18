@@ -1,0 +1,13 @@
+.page-footer {
+  border-top: 4px solid darkgrey;
+  background-color: #f2f1ec;
+  /* border-radius: 5px; */
+}
+
+.footer-copyright .container {
+  text-align: center;
+}
+
+.footer-copyright p {
+  color: black;
+}

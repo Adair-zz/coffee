@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "imageUrl": "https://www.acouplecooks.com/wp-content/uploads/2021/08/How-to-make-espresso-009.jpg",
+    "description": "Espresso is an Italian way of making coffee in highly concentrated shots. A single espresso shot is 1 ounce, and a double shot is 2 ounces. Espresso can be sipped in small cups, or used as the base for popular espresso drinks.",
+    "recipe": "https://www.acouplecooks.com/how-to-make-espresso/"
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "imageUrl": "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-cappuccino-005.jpg",
+    "description": "A cappuccino is an espresso drink with steamed milk, milk foam and espresso. It has equal parts espresso, steamed milk and foam (⅓ each).",
+    "recipe": "https://www.acouplecooks.com/how-to-make-cappuccino/"
+  },
+  {
+    "id": 3,
+    "name": "Latte",
+    "imageUrl": "https://www.acouplecooks.com/wp-content/uploads/2021/05/Latte-Art-067.jpg",
+    "description": "A latte is a coffee drink with espresso, steamed milk and a layer of foam on top. It has ⅓ espresso and 2/3 steamed milk, with a thin layer of foam on top.",
+    "recipe": "https://www.acouplecooks.com/how-to-make-a-latte/"
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "imageUrl": "https://www.acouplecooks.com/wp-content/uploads/2020/10/How-to-make-an-Americano-004.jpg",
+    "description": "An Americano is an espresso drink made with hot water and espresso. The drink can be made with either one or two shots of espresso, and varying ratios of water (usually 2:1).",
+    "recipe": "https://www.acouplecooks.com/how-to-make-an-americano/"
+  },
+  {
+    "id": 5,
+    "name": "French Press Coffee",
+    "imageUrl": "https://www.acouplecooks.com/wp-content/uploads/2021/08/French-Press-Coffee-008.jpg",
+    "description": " The French press is a small pitcher with a plunger that’s used to brew coffee and other drinks. It’s most often used for brewed coffee, but the French press also makes tea, cold brew, espresso, and more.",
+    "recipe": "https://www.acouplecooks.com/french-press-coffee/"
+  },
+  {
+    "id": 6,
+    "name": "Flat White",
+    "imageUrl": "https://www.acouplecooks.com/wp-content/uploads/2021/04/Flat-White-003-1.jpg",
+    "description": "A flat white is a coffee drink with espresso, steamed milk and a layer of foam on top. It’s similar to a latte and cappuccino, but has a thinner layer of foam on top."
+  },
+  {
+    "id": 7,
+    "name": "Macchinato",
+    "imageUrl": "https://www.acouplecooks.com/wp-content/uploads/2020/10/how-to-make-a-macchiato-003.jpg",
+    "description": "A caffè macchiato or espresso macchiato is a shot of espresso that’s topped with frothed milk.",
+    "recipe": "https://www.acouplecooks.com/how-to-make-a-macchiato/"
+  },
+  {
+    "id": 8,
+    "name": "Cortado",
+    "imageUrl": "https://www.acouplecooks.com/wp-content/uploads/2021/08/Cortado-004.jpg",
+    "description": "The Cortado is an espresso drink of equal parts espresso and steamed milk. It's always the same volume: one doubleshot of espresso and 2 ounces milk.",
+    "recipe": "https://www.acouplecooks.com/cortado/"
+  },
+  {
+    "id": 9,
+    "name": "Breve Coffee",
+    "imageUrl": "https://www.acouplecooks.com/wp-content/uploads/2021/09/Breve-Coffee-003.jpg",
+    "description": "Breve coffee, aka cafe breve or breve latte, is a drink of equal parts espresso and half and half. ",
+    "recipe": "https://www.acouplecooks.com/breve-coffee/"
+  }
+]

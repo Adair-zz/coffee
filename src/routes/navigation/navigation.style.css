@@ -1,0 +1,42 @@
+.navigation-container {
+  height: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.logo-container {
+  width: 40%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.logo-svg {
+  margin-left: 3%;
+}
+
+.nav-links-container {
+  width: 60%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+@media screen and (max-width: 768px) {
+  .nav-link {
+    padding: 10px 10px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .nav-link {
+    padding: 10px 10px;
+    cursor: pointer;
+    font-size: 1.3rem;
+  }
+}

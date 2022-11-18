@@ -1,0 +1,90 @@
+.directory-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin: 12% auto;
+}
+
+.coffee-beans-container {
+  flex: 1;
+}
+
+.coffee-beans-container h3 {
+  font-size: 2.2rem;
+  border: 1px solid #da9f5b;
+  background-color: #da9f5b;
+  border-radius: 10px;
+  padding: 8px 24px;
+  cursor: pointer;
+}
+
+.coffee-beans-container p {
+  font-size: 1.1rem;
+}
+
+.home-img {
+  flex: 1.8;
+}
+
+.home-img img {
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.coffee-drinks-container {
+  flex: 1;
+}
+
+.coffee-drinks-container h3 {
+  font-size: 2.2rem;
+  border: 1px solid #da9f5b;
+  background-color: #da9f5b;
+  border-radius: 10px;
+  padding: 8px 24px;
+  cursor: pointer;
+}
+
+.coffee-drinks-container p {
+  font-size: 1.1rem;
+}
+
+@media screen and (max-width: 768px) {
+  .directory-container {
+    flex-direction: column;
+  }
+
+  .coffee-beans-container {
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .coffee-beans-container h3 {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .coffee-drinks-container {
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .coffee-drinks-container h3 {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .coffee-beans-container {
+    margin-left: 5%;
+  }
+
+  .coffee-drinks-container {
+    margin-right: 5%;
+  }
+}

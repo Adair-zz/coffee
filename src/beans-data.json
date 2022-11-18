@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Arabica",
+    "roast": "light",
+    "price": 12,
+    "imageUrl": "https://enjoyjava.com/wp-content/uploads/2018/01/what-is-arabica-coffee.jpg",
+    "description": "Arabica coffee is considered superior rabica coffee is considered superior rabica coffee is considered superior rabica coffee is considered superior rabica coffee is considered superior rabica coffee is considered superior to Robusta because of its delicate flavor and low acidity. This variety is grown at higher altitudes and can be more difficult and costly to grow. These labor-intensive, low-yield plants produce a high-demand bean that sells for a higher price."
+  },
+  {
+    "id": 7,
+    "name": "Arabica",
+    "roast": "light",
+    "price": 126,
+    "imageUrl": "https://enjoyjava.com/wp-content/uploads/2018/01/what-is-arabica-coffee.jpg",
+    "description": "Arabica coffee is considered superior rabica coffee is considered superior rabica coffee is considered superior rabica coffee is considered superior rabica coffee is considered superior rabica coffee is considered superior to Robusta because of its delicate flavor and low acidity. This variety is grown at higher altitudes and can be more difficult and costly to grow. These labor-intensive, low-yield plants produce a high-demand bean that sells for a higher price."
+  },
+  {
+    "id": 8,
+    "name": "Arabica",
+    "roast": "light",
+    "price": 122,
+    "imageUrl": "https://enjoyjava.com/wp-content/uploads/2018/01/what-is-arabica-coffee.jpg",
+    "description": "Arabica coffee is considered superior to Robusta because of its delicate flavor and low acidity. This variety is grown at higher altitudes and can be more difficult and costly to grow. These labor-intensive, low-yield plants produce a high-demand bean that sells for a higher price."
+  },
+
+  {
+    "id": 2,
+    "name": "Arabica",
+    "roast": "light",
+    "price": 2,
+    "imageUrl": "https://enjoyjava.com/wp-content/uploads/2018/01/what-is-arabica-coffee.jpg",
+    "description": "Arabica coffee is considered superior to Robusta because of its delicate flavor and low acidity. This variety is grown at higher altitudes and can be more difficult and costly to grow. These labor-intensive, low-yield plants produce a high-demand bean that sells for a higher price."
+  },
+  {
+    "id": 3,
+    "name": "Arabica",
+    "roast": "light",
+    "price": 1,
+    "imageUrl": "https://enjoyjava.com/wp-content/uploads/2018/01/what-is-arabica-coffee.jpg",
+    "description": "Arabica coffee is considered superior to Robusta because of its delicate flavor and low acidity. This variety is grown at higher altitudes and can be more difficult and costly to grow. These labor-intensive, low-yield plants produce a high-demand bean that sells for a higher price."
+  },
+  {
+    "id": 4,
+    "name": "Arabica",
+    "roast": "light",
+    "price": 10,
+    "imageUrl": "https://enjoyjava.com/wp-content/uploads/2018/01/what-is-arabica-coffee.jpg",
+    "description": "Arabica coffee is considered superior to Robusta because of its delicate flavor and low acidity. This variety is grown at higher altitudes and can be more difficult and costly to grow. These labor-intensive, low-yield plants produce a high-demand bean that sells for a higher price."
+  }
+]
